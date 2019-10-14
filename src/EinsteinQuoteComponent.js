@@ -16,4 +16,4 @@ class EinsteinQuoteComponent extends Component {
 		);
 	}
 }
-export default HelloWorld;
+export default EinsteinQuoteComponent;
