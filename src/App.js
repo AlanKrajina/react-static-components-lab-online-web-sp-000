@@ -5,7 +5,7 @@ class App extends Component {
 		// your code in the return statement below!
 		return (
 			<div className="App">
-				<p<CatComponent /></p>
+				<CatComponent />
 				<EinsteinQuoteComponent />
 				<MouseComponent />
 			</div>
