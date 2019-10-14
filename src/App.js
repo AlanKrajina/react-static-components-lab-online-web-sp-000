@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import CatComponent from 'CatComponent';
-import EinsteinQuoteComponent from 'react';
-import MouseComponent from 'react';
 
 class App extends Component {
 	render() {
