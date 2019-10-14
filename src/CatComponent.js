@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import CatComponent from "./CatComponent.js";
-
-
 
 class CatComponent extends Component {
   render() {
